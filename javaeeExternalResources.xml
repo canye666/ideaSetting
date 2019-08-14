@@ -1,0 +1,11 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc/spring-mvc.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/f7d22907_spring-mvc.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <ignored-resource url="http://code.alibabatech.com/schema/dubbo" />
+    <ignored-resource url="http://www.springframework.org/schema/beans" />
+    <ignored-resource url="http://www.springframework.org/schema/tx" />
+  </component>
+</application>

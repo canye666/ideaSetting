@@ -1,0 +1,13 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Language Injection/Edit Injection Settings" />
+    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
+    <ignoreAction name="Java/Declaration/Split Declaration" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+    <ignoreAction name="Language Injection/Inject language or reference" />
+    <ignoreAction name="Java/Annotations/Add Annotation" />
+    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
+    <ignoreAction name="Java/Modifiers/Make Package-Private" />
+  </component>
+</application>
