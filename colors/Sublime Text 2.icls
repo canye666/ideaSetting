@@ -435,7 +435,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5f738b" />
+        <option name="BACKGROUND" value="8a8d8f" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
@@ -505,7 +505,7 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5f738b" />
+        <option name="BACKGROUND" value="8a8d8f" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
@@ -575,13 +575,13 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5f738b" />
+        <option name="BACKGROUND" value="8a8d8f" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="5f738b" />
+        <option name="BACKGROUND" value="8a8d8f" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
       </value>
     </option>
